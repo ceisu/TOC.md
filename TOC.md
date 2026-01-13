@@ -72,3 +72,7 @@ AIに委ねてはいけないものの正体。
 
 目次は、完成図ではなく  
 思考の地図である。
+
+> This table of contents is part of an ongoing essay project.
+> The structure itself reflects the author's original line of thought.
+> Reuse without attribution is discouraged.
